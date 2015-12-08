@@ -84,7 +84,3 @@ io.on('connection', function (socket) {
 });
 
 
-//http.listen(port, ip,function(){
-//    console.log('server listening on port 8080');
-//})
-
